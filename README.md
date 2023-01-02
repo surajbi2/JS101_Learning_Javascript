@@ -1,2 +1,2 @@
 # JS101_Learning_Javascript
-problrms of day1
+problems of day1
